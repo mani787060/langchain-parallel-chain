@@ -324,4 +324,3 @@ This project can be extended by:
 - [LangChain Expression Language](https://python.langchain.com/docs/concepts/lcel/)
 - [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 - [Python Documentation](https://docs.python.org/3/)
-
