@@ -325,15 +325,3 @@ This project can be extended by:
 - [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 - [Python Documentation](https://docs.python.org/3/)
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mani-ratan-159963289/)
-
----
-
-If you find this project useful for learning LangChain and Generative AI, consider giving the repository a ⭐.
-
-**Learning takeaway:** `RunnableParallel` allows independent LLM tasks to process shared input concurrently, while LCEL makes it possible to combine their outputs into a single, reusable workflow.
